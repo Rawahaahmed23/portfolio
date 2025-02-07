@@ -1,5 +1,5 @@
 
-import { div } from "motion/react-client"
+
 import Service from "./component/services/page"
 import Footer from "./component/footer/page"
 
